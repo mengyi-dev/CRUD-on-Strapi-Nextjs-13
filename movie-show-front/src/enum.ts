@@ -1,0 +1,1 @@
+export enum Methods { UPDATE ='update', CREATE='create' }

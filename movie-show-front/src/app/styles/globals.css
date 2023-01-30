@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background-image: url('https://www.devon.ca/Portals/0/EasyDNNNews/2649/images/img-Promo---Movie-in-the-Park-20201-1000-800-p-L-97.png');
+   */
+  background: #000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(5px);
+  height: 100vh;
+}
